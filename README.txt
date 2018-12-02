@@ -69,10 +69,9 @@
 
 [ Demo ]
 
-  Acesse o link abaixo para ver uma demonstração de instalação e usabilidade
-  do PyKernel:
+  Acesse o link abaixo para ver uma demonstração de funcionamento do PyKernel:
 
-  https://raw.githubusercontent.com/williamcanin/pykernel/trinket/demo.gif
+  https://github.com/williamcanin/pykernel/blob/master/img/demo.png
 
 [ Licença ]
 
