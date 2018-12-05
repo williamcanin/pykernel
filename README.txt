@@ -19,13 +19,6 @@
         do Kernel Linux estável para instalar na máquina, ele pode fazer
         isso com o PyKernel.
 
-    2 - Por que criou esse programa?
-
-    R:- Esse projeto (v1.0.0) foi realizado para a conclusão do curso
-        "Aprenda a programar em Python com facilidade do zero" na Udemy
-        (https://www.udemy.com) ministrado por Ivan Lourenço Gomes
-        (https://www.udemy.com/user/ivan-lourenco-gomes/).
-
 [ Dependências ]
 
   * Git
@@ -39,12 +32,7 @@
 
 [ Instalação ]
 
-    $ pip3 install --user virtualenv
-    $ git clone https://github.com/williamcanin/pykernel.git pykernel
-    $ cd pykernel
-    $ virtualenv ENV
-    $ source ENV/bin/activate
-    $ pip install requests tqdm pathlib
+
 
 [ Usando ]
 

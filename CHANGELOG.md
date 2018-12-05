@@ -17,4 +17,8 @@ CHANGELOG - Portuguese - Brazil
 - Arquivo 'message_colors.py'
 - Arquivo de CREDITS, COPYING e CHANCELOG.md
 
-## [1.0.1] - Sem prévia.
+## [1.0.1] -
+### Alterado
+- Nova estrutura de pastas
+### Adicionado
+- Instalador para o PyKernel no Linux.
