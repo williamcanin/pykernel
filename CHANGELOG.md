@@ -17,4 +17,7 @@ CHANGELOG - Portuguese - Brazil
 - Arquivo 'message_colors.py'
 - Arquivo de CREDITS, COPYING e CHANCELOG.md
 
-## [1.0.1] - Sem prévia.
+## [1.0.1] - 2021-10-11
+### Alterado
+- Corrigindo bug de mensagem de sucesso.
+- Removendo arquivo de download temporário ao cancelar processo.
