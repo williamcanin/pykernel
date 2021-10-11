@@ -2,7 +2,7 @@ import modules.imports as app_import
 import modules.message_colors as color_msg
 
 
-# Function using 'tqdm'
+# Função usanfo 'tqdm'
 def package(app_version, app_down_dir):
     # Url completa do kernel Linux.
     urlDownload = 'https://cdn.kernel.org/pub/linux/kernel/v' + \
@@ -34,5 +34,6 @@ def package(app_version, app_down_dir):
             f.write(data)
         # Após completa downlod, printa mensagem de conclusão.
         color_msg.Message.print_color(
-                    color_msg.Message._okgree,
+                    color_msg.Message._okgreen,
                     '> Download concluído!')
+

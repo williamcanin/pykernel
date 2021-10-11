@@ -44,6 +44,7 @@ if args.command == 'download':
     # interrupção.
     except KeyboardInterrupt as keI:
         print('\n\n> Processo interrompido pelo usuário.', keI)
+        app_import.os.remove(args.path + "/linux-" + latestVersion + ".tar.xz")
         exit(0)
 # Se o parametro obrigatório for diferente de "download", então mostra a
 # mensagem abaixo.

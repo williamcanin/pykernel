@@ -1,5 +1,6 @@
 import requests
 import sys
+import os
 from argparse import ArgumentParser
 from pathlib import Path
 import json
